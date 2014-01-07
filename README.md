@@ -5,7 +5,7 @@ ExcelReader is a simple library for Go .  With it you can access easily the cont
 
  Instalation
 ===========
-```go get github.com/ndyakov/go-lastfm```
+```go get github.com/PuloV/ExcelReader```
 
  Use
 ===========
